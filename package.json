@@ -1,0 +1,17 @@
+{
+  "name": "testeo-funcion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "set NODE_ENV=development&vitest",
+    "coverage":"vitest run --coverage"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vitest": "^0.25.1"
+  }
+}

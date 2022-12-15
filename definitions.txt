@@ -1,0 +1,9 @@
+end to end
+selenium, pupeteer
+
+cypress
+escribe dentro del aplicativo
+se hace test
+
+ci                      cd
+integracion continua    despliegue continuo
